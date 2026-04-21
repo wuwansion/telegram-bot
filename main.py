@@ -29,7 +29,7 @@ def handle_message(chat_id, text):
 
     # MENU
     if "menu" in text:
-        return "☕ Menu:\n- Cà phê: 20k\n- Trà sữa: 25k\n\nBạn muốn gọi món gì?"
+    return "🔥 NEW VERSION OK 🔥"
 
     # CHỌN MÓN
     if "cà phê" in text:
